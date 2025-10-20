@@ -32,8 +32,7 @@ print("d = ",False + 9)
 
 ## Output
 
-<img width="469" height="266" alt="Screenshot 2025-10-20 153715" src="https://github.com/user-attachments/assets/eb9e74af-71e1-4dd7-966b-426d4d9c9244" />
-
+<img width="461" height="282" alt="Screenshot 2025-10-20 154249" src="https://github.com/user-attachments/assets/a8e443c1-a769-4e1b-8fe3-310d74faae60" />
 
 ## Result
 
