@@ -17,11 +17,17 @@ To write a Python program that evaluates and prints the results of boolean and a
 ## 💻 Program
 
 a=0
+
 b=False
+
 if a == 0 :
+
     print("a = ",True)
+
 print("b = ",b)
+
 print("c = ",True + True)
+
 print("d = ",False + 9)
 
 ## Output
