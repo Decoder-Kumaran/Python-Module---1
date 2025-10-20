@@ -12,9 +12,7 @@ To write a Python program to read a string from the user and then print it.
 ## 🧾 Program:
 
     str=input()        # To get input from the user and assigning it to the variable str
-
     print(str)          # To print str
-
     print (type(str))    #To print thr type of str
 
 ## Output:
