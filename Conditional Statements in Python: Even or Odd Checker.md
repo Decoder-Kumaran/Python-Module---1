@@ -24,9 +24,9 @@ To write a Python program to check whether the given number is **even** or **odd
     
 ## Output :
 
-<img width="312" height="225" alt="Screenshot 2025-10-20 152755" src="https://github.com/user-attachments/assets/dc1a5df8-2724-430d-b3d1-75109865fa3d" />
+    <img width="312" height="225" alt="Screenshot 2025-10-20 152755" src="https://github.com/user-attachments/assets/dc1a5df8-2724-430d-b3d1-75109865fa3d" />
 
-<img width="328" height="57" alt="image" src="https://github.com/user-attachments/assets/3f6dd3b6-3a8e-4570-9652-eba4d8ba6f85" />
+    <img width="328" height="57" alt="image" src="https://github.com/user-attachments/assets/3f6dd3b6-3a8e-4570-9652-eba4d8ba6f85" />
 
 
 ## Result :
