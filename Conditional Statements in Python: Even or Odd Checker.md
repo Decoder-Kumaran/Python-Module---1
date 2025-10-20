@@ -28,4 +28,4 @@ else:
 
 ## Result :
 
-Thus, The Python program to find the given number is even or odd using conditional statement is verified.
+Thus, The Python program to check whether the given number is **even** or **odd** using `if...else` statements is verified.
