@@ -14,15 +14,15 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program:
 
-a=int(input()) # the real part of the complex number
+    a=int(input())    # the real part of the complex number
 
-b=int(input()) # the imaginary part of the complex number
+    b=int(input())    # the imaginary part of the complex number
 
-x=complex(a,b) #assigning complex number to x using complex()
+    x=complex(a,b)    #assigning complex number to x using complex()
 
-print(x) # print x
+    print(x)          # print x
 
-print(type(x)) # to print type of x
+    print(type(x))    # to print type of x
 
 ## Output:
 
