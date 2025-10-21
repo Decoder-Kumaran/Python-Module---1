@@ -31,4 +31,4 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## Result :
 
-Thus, The Python program to check whether the given number is **even** or **odd** using `if...else` statements is verified.
+Thus, The Python program to check whether the given number is **even** or **odd** using `if...else` statements was executed successfully .
