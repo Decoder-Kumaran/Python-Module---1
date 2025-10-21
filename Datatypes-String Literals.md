@@ -22,4 +22,4 @@ To write a Python program to read a string from the user and then print it.
 
 
 ## Result:
-Thus, The Python program to read a string from the user and then print it is verified.
+Thus, The Python program to read a string from the user and then print it was executed successfully.
