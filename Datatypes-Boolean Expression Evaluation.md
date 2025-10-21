@@ -36,4 +36,4 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## Result:
 
-Thus, The Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is verified.
+Thus, The Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` was executed successfully.
